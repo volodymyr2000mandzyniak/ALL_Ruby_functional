@@ -1,6 +1,3 @@
-
-
-
 all sinh onli t = 22 - 30
 
 if summer t 15 - 35
